@@ -5,7 +5,6 @@ $(document).ready(function() {
 
     $(".name1").text(name1Input);
     $(".address").text(addressInput);
-
     $("#receipt").show();
 
     event.preventDefault();
